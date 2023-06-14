@@ -17,6 +17,7 @@ Usage
 ------
 To successfully run this code, it must be done through a Bokeh server. To set this up, navigate to your IDE's terminal or the command prompt and find the correct directory that the .py file is located in. Next, use this command prompt:
 - bokeh serve --show main.py
+
 If your file is named differently, please make according changes to "main.py" in the command line.
 
 Once this is completed, the dashboard should appear on your screen. Enter the ticker symbol of the stocks that you want to compare, set the date, and click "load data". This should generate two seperate candlestick charts which you can then compare.
