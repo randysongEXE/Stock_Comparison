@@ -1,0 +1,12 @@
+2023-06-13 21:47:32,765 Starting Bokeh server version 3.1.1 (running on Tornado 6.3.2)
+2023-06-13 21:47:33,060 User authentication hooks NOT provided (default user enabled)
+2023-06-13 21:47:33,066 Bokeh app running at: http://localhost:5006/alternative
+2023-06-13 21:47:33,066 Starting Bokeh server with process id: 16472
+2023-06-13 21:47:33,983 WebSocket connection opened
+2023-06-13 21:47:33,985 ServerConnection created
+Downloading data for AAPL and TSLA from 2020-01-01 to 2021-02-19 with indicators: []
+[*********************100%***********************]  1 of 1 completed
+[*********************100%***********************]  1 of 1 completed
+Data downloaded successfully. Now plotting...
+Plots generated. Now updating the document...
+Document updated. The graphs should be visible now.
