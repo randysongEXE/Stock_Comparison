@@ -20,4 +20,4 @@ To successfully run this code, it must be done through a Bokeh server. To set th
 
 If your file is named differently, please make according changes to "main.py" in the command line.
 
-Once this is completed, the dashboard should appear on your screen. Enter the ticker symbol of the stocks that you want to compare, set the date, and click "load data". This should generate two seperate candlestick charts which you can then compare.
+Once this is completed, the dashboard should appear on your screen. Enter the ticker symbol of the stocks that you want to compare, set the date, and click "load data". This should generate two seperate candlestick charts which you can then visualize.
